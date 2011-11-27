@@ -1,0 +1,7 @@
+.DS_Store
+test.xml
+sample.rb
+*.orig
+pkg
+.dotest
+Gemfile.lock
